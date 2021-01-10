@@ -33,7 +33,7 @@ useEffect(()=>{
 
 const toggleHome=()=>{
   scroll.scrollToTop()
-}
+};
 
 
   return (
