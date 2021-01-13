@@ -1,3 +1,6 @@
+#Preview
+![Design and Development](https://github.com/JunaidShamnad/React-Website/blob/main/React-Website.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
